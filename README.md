@@ -5,4 +5,4 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/pytoolsdemo.svg?color=green)](https://python.org)
 [![CI](https://github.com/guiwitz/pytoolsdemo/actions/workflows/ci.yml/badge.svg)](https://github.com/guiwitz/pytoolsdemo/actions/workflows/ci.yml)
 
-Demo package for teaching
+Demo package for teaching.
